@@ -1,2 +1,1 @@
-<!-- GitHub shows SVGs as <img>, so links inside the banner can't be clicked; the whole banner links to the paper instead. -->
-<a href="https://aclanthology.org/2026.americasnlp-6.17/"><img src="galaxy.svg" width="100%" alt="Alex Korablev: animated ASCII galaxy of word embeddings with Qom words and their Spanish, English and Russian translations, next to a terminal-style info panel. Links to the QomL'aqtaqa paper."></a>
+<img src="galaxy.svg" width="100%" alt="Alex Korablev: animated ASCII galaxy of word embeddings with Qom words and their Spanish, English and Russian translations, next to a terminal-style info panel.">
